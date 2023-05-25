@@ -1,0 +1,30 @@
+.app{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	font-family: 'Varela';
+	text-align: center;
+}
+
+#signInDiv{
+	text-align: center;
+}
+
+.main{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
+}
+
+.button{
+	padding:10px;
+	font-size:23px;
+	border-radius:20px;
+	background-color: coral;
+}
+
+.button:hover{
+	transform: scale(0.95);
+	transition: 0.5s;
+}

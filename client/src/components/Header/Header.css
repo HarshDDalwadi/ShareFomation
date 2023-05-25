@@ -1,0 +1,27 @@
+.header{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
+}
+
+.image{
+	text-align: center;
+	margin:1000px;
+
+}
+
+h1{
+	text-align: center;
+}
+
+.upper{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.imagePic{
+	border-radius: 50%;
+}
+
